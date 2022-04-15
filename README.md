@@ -7,4 +7,4 @@ https://docs.qq.com/doc/DYnJQdlhQbGx3TVhZ
 
 具体建议可以在提交前在群聊讨论，本群主旨是技术讨论，关于网站具体细节/网站安全等等。
 
-主群已经分出了不同工作小组，详情参照主群的群公告。
+https://discord.gg/DQjeDrdB
